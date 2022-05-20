@@ -5,7 +5,7 @@
   <input name="email" type="text" placeholder="E-mail" required=''/>
   <br>
   <br>
-  <textarea cols="32" name="message" rows="5" placeholder="Текст сообщения" required=''> Текст сообщения
+  <textarea cols="32" name="message" rows="5" placeholder="Текст сообщения" required=''>
   </textarea>
   <br>
   <input type="file" id="feedpic" name="image">
